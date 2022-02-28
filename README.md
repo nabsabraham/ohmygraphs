@@ -3,6 +3,7 @@ useful links + started code on graph neural nets!
 
 ## Books 
 1. Graph Representation Learning Book: https://www.cs.mcgill.ca/~wlh/grl_book/
+2. Deep Learning on Graphs: https://web.njit.edu/~ym329/dlg_book/
 
 
 ## Papers 
